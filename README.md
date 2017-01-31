@@ -1,0 +1,2 @@
+# setupmypc
+setupmypc
