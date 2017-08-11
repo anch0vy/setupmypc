@@ -1,7 +1,7 @@
 # setupmypc
 wow!
 
-##windows
+## windows
 ```ps1
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
@@ -9,4 +9,4 @@ choco install flashplayerplugin jre8 firefox adobeair 7zip.install chocolatey-co
 http://aka.ms/vcpython27
 ```
 
-##mac
+## mac
