@@ -13,6 +13,10 @@ http://aka.ms/vcpython27
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
+brew upgrade
+brew install moreutils
+brew install findutils
 brew tap "caskroom/cask"
 brew tap "caskroom/drivers"
 brew tap "homebrew/bundle"
